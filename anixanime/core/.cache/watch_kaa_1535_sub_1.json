@@ -1,0 +1,1 @@
+{"data":{"anilistId":1535,"episode":1,"audio":"sub","streams":[{"url":"https://hls.krussdomi.com/manifest/64d5768e44c6d04c126196ba/master.m3u8","type":"hls","server":"VidStreaming","headers":{"Referer":"https://krussdomi.com/"},"priority":1,"isActive":true}]},"cachedAt":1786004801711,"ttl":10800000,"refreshAfter":10800000,"expiresAt":1786015601711}
