@@ -94,8 +94,8 @@ Movie-server code that must **not** appear on the public GitHub lives in:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AniXDex/AniXFlix.git
-   cd AniXFlix
+   git clone https://github.com/Harshsharma-088/Hapixflix.git
+   cd Hapixflix
    ```
 
 2. **Install dependencies**
@@ -184,5 +184,5 @@ For takedown requests regarding indexed links, please open an issue or contact u
 ---
 
 <div align="center">
-  <i>Built with passion by <a href="https://github.com/anixdex">AniXDex</a></i>
+  <i>Built with passion by <a href="https://github.com/Harshsharma-088">Harshsharma-088</a></i>
 </div>

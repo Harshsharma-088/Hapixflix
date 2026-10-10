@@ -23,7 +23,7 @@ function Footer() {
             This site does not store any files on our server, we only linked to the media which is hosted on 3rd party services.
           </p>
           <div className="flex items-center gap-5 text-sm text-white/70 mt-1">
-            <Link href="https://github.com/anixdex" target="_blank" className="flex items-center gap-2 hover:text-white transition-colors group">
+            <Link href="https://github.com/Harshsharma-088" target="_blank" className="flex items-center gap-2 hover:text-white transition-colors group">
               <IconsClubLogo name="github" size={18} radius={4} className="opacity-70 group-hover:opacity-100 transition-opacity" />
               <span>GitHub</span>
             </Link>
