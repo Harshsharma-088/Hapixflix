@@ -65,7 +65,7 @@ It has two catalog worlds:
 ### How Playback Works
 
 ```text
-Movies/TV page  →  TMDB metadata  →  embed server iframe (AnixHub, RozgarLelo, …)
+Movies/TV page  →  TMDB metadata  →  embed server iframe (ModiPlay, ScreenScape, …)
 Anime watch page → /api/anixanime/episodes|watch → anixanime providers → HLS via /api/anixanime/proxy
 ```
 
